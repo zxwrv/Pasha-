@@ -53,7 +53,7 @@ print('\n\033[1;33m✅ تـم تشـغيل الـمدفوع انـتضــر ا�
 
 import datetime
 an = datetime.datetime.now()
-an2 = datetime.datetime(2024, 3, 28, 4, 30, 00)
+an2 = datetime.datetime(2024, 3, 29, 4, 30, 00)
 if an > an2 or an == an2:
  exit('انتهاء الأشتراك راسل المطور للتفعيل عمري @k6_vk ❤')
 else:
